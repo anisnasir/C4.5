@@ -1,0 +1,1 @@
+This is an implementation of C4.5 Machine Learning algorithm which is also known as J48. The algorithm takes dataset as input and generate tree based rules corresponding to the datset
